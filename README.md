@@ -1,2 +1,2 @@
 # DS-Lab
-DS Lab(KTU S3)
+ DATA STRUCTURES Lab(KTU S3)
